@@ -5,3 +5,5 @@ Step4: Added required code inside pch.h file
 Step5: In .h of project file added required files and precompilation files 
 Step6: In .h added the member function and entrypoint function outside class defination all methods to be included inside the .h 
 Step7: In .cpp defination of the declaration of .h files
+Step8: Inside .cpp file we have to define the appload unload acrxyEntrypoint and so much of things
+Step9: Now save and compile the code
